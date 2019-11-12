@@ -1,0 +1,691 @@
+Platform,Year_of_Release,Genre,Publisher,Global_Sales,Critic_Score,Critic_Count,User_Score,User_Count
+PS2,2003,Action,Ubisoft,2.65,89,24,7.7,102
+GBA,2003,Action,Ubisoft,0.1,77,21,8.6,8
+GC,2003,Action,Ubisoft,0.23,89,19,8.7,25
+3DS,2011,Action,Ubisoft,0.3,53,32,5.5,26
+PS3,2011,Action,Ubisoft,0.02,67,21,6.8,29
+PC,2013,Action,Ubisoft,0.19,82,13,7.4,754
+X360,2013,Action,Ubisoft,0.98,82,58,7.5,383
+PS3,2013,Action,Ubisoft,0.94,84,27,7.7,314
+WiiU,2013,Action,Ubisoft,0.12,75,5,7.8,148
+DS,2005,Action,Ubisoft,0.07,50,22,7,25
+GC,2005,Action,Ubisoft,0.1,81,28,8.5,15
+PS2,2005,Action,Ubisoft,0.95,87,29,8.6,53
+XB,2005,Action,Ubisoft,1.11,94,70,9,160
+PC,2010,Action,Ubisoft,0.11,83,20,5.2,672
+GC,2006,Action,Ubisoft,0.06,64,8,7.1,7
+Wii,2006,Action,Ubisoft,0.13,61,12,7.4,16
+X360,2006,Action,Ubisoft,0.78,85,59,8.1,148
+PS3,2007,Action,Ubisoft,0.26,78,17,6.5,41
+PSP,2006,Shooter,Ubisoft,0.19,58,37,7.5,39
+GBA,2004,Action,Ubisoft,0.06,68,19,6.2,6
+GC,2004,Action,Ubisoft,0.08,78,25,8,11
+PS2,2004,Action,Ubisoft,1.25,87,45,8.6,34
+XB,2004,Action,Ubisoft,1.48,93,74,8.6,68
+PC,2016,Shooter,Ubisoft,0.41,79,33,5.8,1188
+XOne,2016,Shooter,Ubisoft,2.16,80,33,6.9,614
+PS4,2016,Shooter,Ubisoft,3.8,80,64,7,2219
+PC,1996,Action,Eidos Interactive,1.03,86,18,8.5,3552
+PS,1996,Action,Eidos Interactive,4.63,91,13,8.6,147
+Wii,2007,Action,Eidos Interactive,0.85,73,22,7.3,25
+PC,2007,Action,Eidos Interactive,0.03,83,26,8.1,242
+PSP,2007,Action,Eidos Interactive,0.57,78,32,8.2,28
+X360,2007,Action,Eidos Interactive,0.39,77,33,8.3,39
+PS2,2006,Action,Eidos Interactive,0.52,82,43,7.1,96
+XB,2006,Action,Eidos Interactive,0.13,82,40,7.2,13
+X360,2006,Action,Eidos Interactive,0.37,80,54,7.3,84
+GC,2006,Action,Eidos Interactive,0.08,78,6,7.8,8
+PC,2006,Action,Eidos Interactive,0.02,82,31,7.9,244
+PSP,2006,Action,Eidos Interactive,0.46,67,28,7.9,30
+DS,2006,Action,Eidos Interactive,0.07,58,15,8,7
+GBA,2002,Action,Ubisoft,0.14,66,20,8.8,13
+X360,2008,Action,Eidos Interactive,1.07,76,57,6.6,198
+Wii,2008,Action,Eidos Interactive,0.45,70,12,7.2,20
+PS3,2008,Action,Eidos Interactive,1.26,75,42,7.2,166
+PC,2008,Action,Eidos Interactive,0.08,80,20,7.7,272
+DS,2008,Action,Eidos Interactive,0.19,70,9,8.4,10
+PS3,2009,Sports,Activision,0.59,44,29,2.1,31
+X360,2009,Sports,Activision,0.61,46,43,3,67
+Wii,2009,Sports,Activision,0.94,47,15,4.5,21
+X360,2010,Sports,Activision,0.26,53,10,6.6,10
+PS3,2010,Sports,Activision,0.28,56,5,6.7,6
+GBA,2005,Sports,Activision,0.24,64,7,5.4,5
+DS,2005,Sports,Activision,0.21,84,31,8.7,55
+X360,2005,Sports,Activision,0.32,75,43,7.2,21
+GC,2005,Sports,Activision,0.42,76,26,7.7,15
+XB,2005,Sports,Activision,0.62,77,40,7.7,15
+DS,2006,Sports,Activision,0.22,76,34,7,7
+PS,1999,Sports,Activision,5.02,92,18,9.2,69
+PS,2000,Sports,Activision,4.68,98,19,7.7,299
+GBA,2001,Sports,Activision,1.18,95,16,7.5,22
+XB,2001,Sports,Activision,0.63,78,24,8.8,5
+PS2,2001,Sports,Activision,4.41,97,34,7.5,298
+PS,2001,Sports,Activision,1.67,87,10,8.3,36
+GC,2001,Sports,Activision,0.82,91,27,9,27
+GBA,2002,Sports,Activision,0.52,90,20,8,6
+XB,2002,Sports,Activision,0.55,93,22,8.4,17
+XB,2002,Sports,Activision,0.93,90,25,8.5,21
+PS2,2002,Sports,Activision,3.67,94,27,8.5,128
+GC,2002,Sports,Activision,0.58,91,19,8.6,21
+GBA,2002,Sports,Activision,0.57,85,13,8.8,4
+PS4,2015,Sports,Activision,0.21,32,43,1.5,427
+XOne,2015,Sports,Activision,0.12,39,18,2.1,132
+PS3,2006,Sports,Activision,0.63,76,43,7.2,14
+PS2,2006,Sports,Activision,0.87,69,17,7.3,19
+X360,2006,Sports,Activision,0.49,81,65,7.6,38
+PSP,2006,Sports,Activision,0.56,68,11,7.6,14
+X360,2007,Sports,Activision,0.56,72,59,5.4,44
+Wii,2007,Sports,Activision,0.25,57,8,6.2,19
+PS3,2007,Sports,Activision,0.44,73,36,6.6,17
+PS2,2007,Sports,Activision,0.66,65,6,6.6,17
+DS,2007,Sports,Activision,0.23,79,21,6.7,6
+GBA,2003,Sports,Activision,0.6,86,9,7.7,9
+GC,2003,Sports,Activision,0.7,89,19,8.5,24
+PS2,2003,Sports,Activision,3.9,90,38,8.7,121
+XB,2003,Sports,Activision,1.27,85,33,9.1,26
+XB,2004,Sports,Activision,0.75,83,55,7.8,12
+PS2,2004,Sports,Activision,2.37,83,59,8.8,55
+GC,2004,Sports,Activision,0.5,82,30,8.9,17
+PSP,2005,Sports,Activision,0.82,83,49,8,34
+X360,2008,Role-Playing,Microsoft Game Studios,0.78,65,80,7,458
+GBA,2003,Racing,Kemco,0.09,78,12,7.6,5
+XB,2005,Racing,Wanadoo,0.02,45,10,7.5,4
+PS3,2011,Simulation,505 Games,0.07,49,25,4.4,5
+PS2,2001,Simulation,Titus,0.92,63,17,3.3,9
+GC,2002,Simulation,Titus,0.15,59,10,7.1,7
+X360,2012,Action,505 Games,0.06,54,8,3.5,16
+XB,2003,Sports,Microsoft Game Studios,0.46,89,44,8.2,31
+PS2,2005,Sports,Take-Two Interactive,0.1,67,28,7.8,12
+X360,2006,Sports,Take-Two Interactive,0.17,75,52,6.8,25
+Wii,2008,Action,Take-Two Interactive,0.58,68,18,5.7,29
+PS3,2008,Action,Take-Two Interactive,0.57,75,36,7.5,20
+X360,2008,Action,Take-Two Interactive,0.56,78,47,7.6,36
+Wii,2011,Sports,Take-Two Interactive,0.14,54,8,7.4,7
+PS3,2011,Sports,Take-Two Interactive,0.69,82,37,7.7,55
+X360,2011,Sports,Take-Two Interactive,0.41,84,54,8.2,70
+PC,2009,Role-Playing,JoWood Productions,0.07,83,57,8,794
+XB,2005,Platform,Microsoft Game Studios,0.03,62,21,6.2,6
+PS3,2009,Action,Konami Digital Entertainment,0.09,69,15,7.6,8
+X360,2009,Action,Konami Digital Entertainment,0.08,62,12,8,6
+Wii,2009,Action,Konami Digital Entertainment,0.1,71,7,8.2,5
+PS2,2005,Shooter,Eidos Interactive,0.09,71,36,9,25
+XB,2005,Shooter,Eidos Interactive,0.02,71,28,9.2,27
+PC,2015,Strategy,Sega,0.24,80,66,7.3,520
+PC,2013,Strategy,Sega,0.72,76,71,4.2,3742
+PC,2011,Strategy,Sega,0.6,90,62,8.3,1180
+PC,2016,Strategy,Sega,0.13,86,77,7.3,556
+DS,2006,Adventure,505 Games,0.09,60,25,6.8,6
+PSV,2011,Puzzle,Namco Bandai Games,0.12,69,41,7.4,51
+DS,2007,Shooter,Eidos Interactive,0.22,56,31,5.6,5
+DS,2007,Puzzle,Midway Games,2,71,19,5.7,9
+PS4,2016,Shooter,Nippon Ichi Software,0.02,55,19,4.7,34
+PSV,2014,Action,Tecmo Koei,0.23,82,5,8.6,42
+PS4,2015,Action,Tecmo Koei,0.17,74,35,7.6,74
+PSV,2013,Action,Tecmo Koei,0.35,71,44,8,136
+PS4,2014,Sports,Focus Home Interactive,0.03,53,9,5.1,22
+Wii,2010,Fighting,Sega,0.06,45,38,6.9,11
+DS,2008,Simulation,Majesco Entertainment,0.03,31,7,5.4,11
+PS4,2015,Action,Ubisoft,0.07,62,19,7.7,61
+XOne,2015,Action,Ubisoft,0.06,60,14,8.4,50
+Wii,2009,Misc,Disney Interactive Studios,1.88,49,15,6.6,13
+PS,2001,Racing,Activision,0.15,76,8,8.7,9
+DS,2005,Adventure,Nintendo,0.29,70,51,8.1,42
+DS,2008,Racing,Focus Home Interactive,0.08,75,38,6.9,12
+PC,2016,Action,Ubisoft,0.01,79,13,6.8,42
+XOne,2016,Action,Ubisoft,0.06,76,12,7.7,27
+PS4,2016,Action,Ubisoft,0.35,81,52,7.9,110
+Wii,2010,Racing,Focus Home Interactive,0.23,74,17,6.8,5
+PS2,2004,Shooter,Atari,1.29,75,51,8.6,27
+Wii,2010,Action,Activision,0.27,41,15,6.5,8
+PS3,2011,Action,Activision,0.34,57,41,5.6,27
+X360,2011,Action,Activision,0.28,59,53,6.7,30
+PS4,2015,Action,Activision,0.23,77,50,7.5,160
+PC,2015,Action,Activision,0.03,74,9,7.6,56
+XOne,2015,Action,Activision,0.14,75,25,7.9,55
+PC,2012,Action,Activision,0.01,78,13,7.9,121
+PS3,2012,Action,Activision,0.39,77,32,8.2,87
+X360,2012,Action,Activision,0.44,79,52,8.3,160
+PC,2016,Simulation,Astragon,0.04,70,11,7,28
+XB,2002,Sports,Atari,0.09,74,14,9.2,14
+PS2,2002,Sports,Atari,0.19,76,15,8.5,6
+PC,2011,Strategy,Iceberg Interactive,0.02,50,14,4.7,57
+PS2,2005,Action,Tecmo Koei,0.06,60,36,7.9,14
+Wii,2007,Simulation,Nintendo,0.29,77,43,8,20
+Wii,2006,Simulation,Nintendo,0.34,80,49,8,47
+DS,2005,Simulation,Nintendo,0.35,81,45,8.7,45
+DS,2008,Simulation,Atlus,0.11,79,29,8.5,11
+PC,2014,Racing,Ubisoft,0.03,80,12,6.8,97
+XOne,2014,Racing,Ubisoft,0.24,80,28,7.1,158
+PS4,2014,Racing,Ubisoft,0.42,79,51,7.2,244
+PS2,2004,Shooter,Play It,0.16,32,4,4.8,16
+PC,2009,Action,Nobilis,0.01,80,50,8.2,488
+PC,2011,Platform,Focus Home Interactive,0.04,84,55,8.4,667
+PS3,2009,Role-Playing,Nippon Ichi Software,0.18,62,25,7.2,28
+PS3,2010,Role-Playing,Ubisoft Annecy,0.14,55,34,6.2,33
+X360,2009,Misc,Electronic Arts,0.37,66,19,6.4,9
+PS3,2009,Misc,Electronic Arts,0.28,66,13,7.1,7
+XB,2004,Misc,Atari,0.09,58,10,8,4
+XB,2004,Action,Disney Interactive Studios,0.06,69,36,4.3,4
+PC,2010,Action,Disney Interactive Studios,0.07,57,11,6,25
+X360,2010,Action,Disney Interactive Studios,0.31,58,51,6,41
+PS3,2010,Action,Disney Interactive Studios,0.42,58,47,6.2,28
+X360,2009,Strategy,Kalypso Media,0.22,75,33,6.6,22
+PC,2009,Strategy,Kalypso Media,0.04,79,48,8.1,184
+PC,2011,Strategy,Kalypso Media,0.27,78,46,7.7,359
+PC,2012,Strategy,Kalypso Media,0.02,78,11,8,58
+PC,2014,Simulation,Kalypso Media,0.12,75,51,7,351
+X360,2014,Simulation,Kalypso Media,0.06,71,4,7.2,9
+PS4,2015,Simulation,Kalypso Media,0.31,76,17,7.1,110
+XB,2005,Action,Activision,0.28,60,43,7.8,17
+GC,2005,Action,Activision,0.17,59,25,8.8,24
+GC,2003,Action,Activision,0.56,77,29,7.3,29
+XB,2003,Action,Activision,1.38,77,39,7.8,28
+PS2,2003,Action,Activision,3.27,77,39,8,94
+DS,2005,Sports,Nintendo,0.16,66,32,7.7,11
+X360,2010,Misc,THQ,0.11,28,6,5.2,6
+DS,2006,Action,505 Games,0.03,39,11,4.5,4
+PS3,2008,Shooter,Codemasters,0.24,42,28,5.5,33
+X360,2008,Shooter,Codemasters,0.29,43,44,6.8,87
+PS3,2008,Action,Touchstone,0.67,67,38,6,39
+PC,2008,Action,Touchstone,0.01,65,16,6.5,55
+X360,2008,Action,Touchstone,0.75,69,63,7.1,120
+XB,2002,Shooter,Acclaim Entertainment,0.55,68,25,6.7,9
+GBA,2002,Shooter,Acclaim Entertainment,0.12,72,8,7,5
+GC,2002,Shooter,Acclaim Entertainment,0.38,70,19,7,21
+PS2,2002,Shooter,Acclaim Entertainment,1.31,61,20,7.3,27
+PS3,2010,Misc,Sony Computer Entertainment,0.25,56,17,4.9,8
+Wii,2008,Shooter,Zoo Games,0.04,50,7,8.3,6
+PS2,2001,Racing,Sony Computer Entertainment,1.41,91,15,8.4,98
+PSP,2005,Action,Sony Computer Entertainment,0.77,79,45,8.2,38
+X360,2007,Role-Playing,SouthPeak Games,0.7,50,44,5.5,182
+PC,2011,Role-Playing,Unknown,0.2,76,31,6.5,315
+X360,2011,Role-Playing,Unknown,0.54,67,50,6.6,140
+PS3,2011,Role-Playing,Unknown,0.46,70,28,7,65
+XB,2002,Platform,Electronic Arts,0.18,68,13,8.5,11
+GC,2002,Platform,Electronic Arts,0.27,69,12,8.7,15
+PS2,2002,Platform,Electronic Arts,1.17,70,14,8.8,60
+PS2,2004,Platform,Electronic Arts,0.53,71,24,8.2,22
+GC,2004,Platform,Electronic Arts,0.2,70,20,8.6,11
+XB,2004,Platform,Electronic Arts,0.11,69,29,8.8,4
+GC,2005,Action,Activision,0.09,68,11,8,9
+PS2,2005,Action,Activision,0.19,68,13,8.1,15
+PC,2006,Strategy,Atari,0.02,67,30,8.3,4
+X360,2011,Misc,THQ,0.02,54,5,5.7,6
+X360,2007,Sports,Electronic Arts,0.05,72,27,8.2,10
+PS2,2004,Sports,Electronic Arts,0.14,76,21,6.4,18
+XB,2004,Sports,Electronic Arts,0.05,74,21,8.1,9
+PS4,2016,Sports,Konami Digital Entertainment,0.29,72,7,6.6,8
+X360,2009,Fighting,THQ,2.06,83,68,7.9,51
+PS3,2009,Fighting,THQ,1.76,84,58,8.1,47
+PS3,2011,Sports,THQ,0.19,65,8,2.4,5
+X360,2011,Sports,THQ,0.77,70,36,6.5,15
+X360,2010,Fighting,THQ,1.32,84,70,6.7,80
+PSP,2010,Fighting,THQ,0.21,74,27,7,13
+PS3,2010,Fighting,THQ,1.41,85,54,7.2,48
+PS3,2012,Action,THQ,1.03,86,30,7.4,92
+X360,2012,Action,THQ,0.99,85,60,7.6,88
+PS2,2004,Fighting,Global Star,0.18,54,29,7.7,7
+XB,2003,Fighting,Capcom,0.1,66,14,7.3,4
+Wii,2008,Misc,Disney Interactive Studios,0.23,59,17,5.5,4
+GBA,2003,Misc,Telegames,0.08,80,9,8.3,7
+PS,2000,Fighting,Ubisoft,0.25,53,6,7.4,16
+PS2,2002,Fighting,Ubisoft,0.32,68,19,8,8
+PSP,2006,Platform,Capcom,0.08,72,49,7.7,18
+X360,2011,Fighting,Capcom,0.07,79,44,6.2,85
+PS3,2011,Fighting,Capcom,0.09,80,36,6.2,114
+PSV,2011,Fighting,Capcom,0.29,80,48,7.7,93
+DS,2007,Fighting,Midway Games,0.09,73,26,8.6,22
+3DS,2014,Action,Unknown,0.27,69,16,7.6,32
+GC,2005,Action,Activision,0.37,76,36,7.2,21
+GBA,2005,Action,Activision,0.3,62,4,7.3,12
+XB,2005,Action,Activision,0.39,77,53,7.4,20
+DS,2005,Action,Activision,0.15,78,17,7.7,10
+PS2,2005,Action,Activision,0.72,74,52,7.9,54
+PS4,2015,Fighting,Capcom,0.1,71,28,5.9,94
+PSP,2011,Role-Playing,FuRyu,0.06,61,8,7.5,15
+3DS,2011,Role-Playing,FuRyu,0.04,65,8,7.8,16
+PS3,2009,Action,Sony Computer Entertainment,6.66,96,105,8.8,5187
+PS3,2011,Action,Sony Computer Entertainment,6.74,92,97,8.3,3712
+PS4,2016,Shooter,Sony Computer Entertainment,5.38,93,113,7.9,7064
+PS3,2007,Action,Sony Computer Entertainment,4.92,88,66,8.1,2306
+PSV,2011,Shooter,Sony Computer Entertainment,1.53,80,80,7.4,770
+PS4,2015,Action,Sony Computer Entertainment,4.62,86,78,8.1,1264
+PSP,2009,Action,Ubisoft Annecy,0.12,63,27,8,13
+PSV,2012,Shooter,Sony Computer Entertainment,0.5,71,60,7.5,169
+GC,2001,Misc,Kemco,0.1,39,11,2.9,11
+X360,2008,Action,Sega,0.1,66,44,8.3,57
+PS2,2002,Role-Playing,Atari,0.77,45,26,3,29
+XB,2002,Shooter,Atari,0.74,83,29,8.2,24
+XB,2004,Shooter,Atari,0.21,64,27,5.3,20
+PS2,2000,Shooter,Infogrames,0.58,77,23,6.8,13
+PC,2002,Shooter,Atari,0.01,86,27,8.2,98
+PC,2004,Shooter,Atari,0.02,93,48,8.9,537
+PS3,2007,Shooter,Midway Games,0.67,86,42,7.7,127
+PC,2007,Shooter,Midway Games,0.06,83,41,8,523
+X360,2008,Shooter,Midway Games,0.47,82,47,7.6,95
+PS4,2015,Adventure,Sony Computer Entertainment Europe,1.66,79,103,8.2,2161
+PS4,2016,Adventure,Sony Computer Entertainment,0.39,72,49,8,68
+PSP,2005,Role-Playing,Activision,1.09,68,51,7.6,58
+PS3,2006,Role-Playing,Electronic Arts,0.2,58,40,7.2,36
+PSP,2006,Role-Playing,Ubisoft,0.33,65,46,8.3,28
+PS3,2009,Action,THQ,0.25,65,5,6.5,4
+X360,2009,Action,THQ,0.29,61,18,6.8,6
+Wii,2009,Action,THQ,0.56,62,6,8,4
+PS2,2006,Shooter,Eidos Interactive,0.06,73,35,7.8,24
+XB,2006,Shooter,Eidos Interactive,0.02,72,34,8.6,9
+PS2,2005,Action,Namco Bandai Games,0.08,60,44,8.2,26
+PC,2003,Adventure,Ubisoft,0.02,79,22,7.6,29
+PS,2000,Role-Playing,Crave Entertainment,0.87,92,19,8.3,129
+PC,2016,Racing,Namco Bandai Games,0.01,72,4,6.2,14
+PS4,2016,Racing,Namco Bandai Games,0.08,75,19,8,50
+XOne,2016,Racing,Namco Bandai Games,0.03,74,5,8.1,7
+PSP,2006,Role-Playing,Rising Star Games,0.24,53,29,6.3,15
+PSP,2008,Role-Playing,Rising Star Games,0.23,50,13,5.4,13
+PSV,2013,Role-Playing,Xseed Games,0.18,48,19,6.8,56
+Wii,2009,Role-Playing,Rising Star Games,0.14,35,17,6.7,19
+PS3,2008,Role-Playing,Sega,1.27,86,60,8.6,433
+PSP,2010,Role-Playing,Sega,0.53,83,54,8.1,67
+PSV,2015,Action,PQube,0.11,72,7,8.5,11
+PS,1999,Role-Playing,Enix Corporation,0.81,81,8,8.8,37
+PS2,2006,Role-Playing,Square Enix,0.47,84,45,9,59
+DS,2008,Role-Playing,Square Enix,0.42,74,35,6.8,12
+PSP,2006,Role-Playing,Square Enix,0.36,80,39,8.4,57
+PS2,2001,Shooter,Sony Computer Entertainment,0.14,65,18,8,5
+X360,2007,Action,Microsoft Game Studios,0.21,38,45,2.9,44
+PS3,2008,Action,Ignition Entertainment,0.06,30,15,3.5,36
+GBA,2004,Action,Activision,0.1,33,11,6.3,6
+PS2,2004,Action,Activision,0.44,64,41,8.5,19
+XB,2007,Action,Activision,0.18,63,32,7.6,8
+PS,1998,Strategy,Human Entertainment,0.07,62,5,7.4,15
+PS3,2010,Shooter,Sega,0.61,84,61,8.1,304
+X360,2010,Shooter,Sega,0.42,84,70,8.4,182
+X360,2009,Shooter,DTP Entertainment,0.18,56,46,7.1,55
+PC,2009,Role-Playing,DTP Entertainment,0.05,61,17,6.8,51
+PS3,2010,Role-Playing,DTP Entertainment,0.12,47,14,6.5,6
+X360,2010,Role-Playing,DTP Entertainment,0.13,42,14,7.3,18
+GC,2003,Platform,Acclaim Entertainment,0.06,71,22,7.3,6
+PS2,2003,Platform,Acclaim Entertainment,0.24,63,20,7.6,11
+XB,2003,Platform,Acclaim Entertainment,0.1,70,21,8.5,10
+PS2,2000,Fighting,Empire Interactive,0.47,75,15,8,10
+Wii,2007,Fighting,Ubisoft,0.14,59,26,5.4,8
+PC,2003,Shooter,Gathering of Developers,0.02,74,22,8.7,76
+PS2,2004,Shooter,Gathering of Developers,0.18,48,11,4.3,6
+XB,2004,Shooter,Gathering of Developers,0.08,57,32,8.4,11
+GC,2003,Action,Capcom,0.62,93,52,8.3,115
+PS2,2004,Action,Capcom,0.28,90,34,8.5,35
+PS2,2004,Action,Capcom,0.21,85,29,7.7,17
+GC,2004,Action,Capcom,0.22,86,39,8.3,19
+GC,2005,Action,Capcom,0.06,62,27,6.9,8
+PSP,2006,Action,Capcom,0.09,63,24,6.3,6
+PS3,2008,Action,Sega,0.38,65,38,7.4,32
+X360,2008,Action,Sega,0.44,68,67,8,88
+PS2,2002,Fighting,Sega,1.81,94,36,8,84
+PS2,2003,Fighting,Sega,0.71,93,30,9,48
+PS3,2007,Fighting,Sega,1.08,85,47,7.4,67
+X360,2007,Fighting,Sega,0.28,89,36,7.6,62
+GC,2002,Sports,Sega,0.05,58,20,6,5
+X360,2009,Sports,Sega,0.33,70,43,6.2,15
+PS3,2009,Sports,Sega,0.38,70,34,6.3,21
+Wii,2009,Sports,Sega,0.37,73,33,7.7,21
+X360,2007,Sports,Sega,0.04,80,34,6.8,26
+PSP,2007,Sports,Sega,0.05,79,17,7.7,13
+PS3,2007,Sports,Sega,1.05,80,35,7.9,32
+X360,2011,Sports,Sega,0.23,70,37,6.2,12
+PS3,2011,Sports,Sega,0.44,69,49,6.6,28
+PC,2011,Sports,Sega,0.04,66,5,7.3,43
+Wii,2011,Sports,Sega,0.14,65,15,7.5,4
+X360,2006,Simulation,Microsoft Game Studios,1.62,84,65,8,131
+PC,2007,Simulation,Microsoft Game Studios,0.02,78,20,7.8,20
+X360,2007,Misc,Microsoft Game Studios,0.23,56,42,6.2,18
+DS,2008,Simulation,THQ,0.55,82,34,7.1,15
+X360,2008,Simulation,Microsoft Game Studios,0.47,82,64,7.9,61
+XB,2003,Platform,Microsoft Game Studios,0.12,73,38,8.4,22
+PS2,2002,Racing,Atari,0.06,82,10,7.4,14
+GBA,2004,Sports,"Destination Software, Inc",0.01,78,13,9.5,4
+XB,2003,Sports,Activision,0.05,80,23,8.8,9
+PS2,2003,Sports,Activision,0.16,83,23,9,12
+Wii,2008,Platform,THQ,1.01,51,18,3.6,8
+PS3,2008,Platform,THQ,0.4,51,24,5,7
+X360,2008,Platform,THQ,0.62,50,32,6.3,6
+PC,2008,Platform,THQ,0.02,58,6,6.8,17
+PS2,2008,Platform,THQ,0.75,67,8,8.4,9
+PS3,2009,Shooter,Warner Bros. Interactive Entertainment,0.29,61,56,7.1,25
+X360,2009,Shooter,Warner Bros. Interactive Entertainment,0.37,62,61,7.5,26
+PC,2015,Strategy,Unknown,0.01,65,14,7.7,90
+PS2,2003,Fighting,Sony Computer Entertainment,0.54,80,41,8.9,68
+PC,2002,Strategy,Vivendi Games,0.13,92,40,9.1,1023
+PC,2003,Strategy,Activision,1.54,88,23,9,713
+PC,2004,Strategy,THQ,0.05,86,51,8.8,295
+PC,2009,Strategy,THQ,0.47,85,67,8.1,1502
+PC,2011,Strategy,THQ,0.08,80,52,7.8,235
+PS2,2003,Shooter,THQ,0.15,64,23,8.3,63
+PC,2011,Shooter,THQ,0.2,74,34,7.4,596
+PS3,2011,Shooter,THQ,0.44,70,46,7.4,162
+X360,2011,Shooter,THQ,0.56,76,57,7.8,232
+PSP,2007,Strategy,THQ,0.32,67,25,7.6,26
+DS,2007,Strategy,THQ,0.06,57,21,7.9,16
+PC,2008,Role-Playing,GOA,0.02,86,54,7.9,374
+PSP,2006,Action,Namco Bandai Games,0.07,55,8,7.4,8
+X360,2008,Strategy,Deep Silver,0.11,55,30,6.7,20
+PC,2006,Strategy,Deep Silver,0.03,73,32,7.4,57
+PS3,2007,Simulation,Sony Computer Entertainment,1.06,84,50,8.4,183
+GBA,2001,Platform,Nintendo,2.26,88,17,8.9,42
+GC,2003,Platform,Nintendo,0.44,71,30,7.2,44
+DS,2007,Platform,Nintendo,0.65,60,35,7.4,19
+DS,2009,Misc,Nintendo,0.59,82,53,8.7,39
+Wii,2006,Puzzle,Nintendo,2.89,83,61,7.4,179
+PS2,2001,Shooter,3DO,0.04,59,9,5.5,4
+PS2,2001,Adventure,3DO,0.17,49,12,4.5,6
+PSP,2007,Role-Playing,Mercury Games,0.06,52,6,7.4,12
+X360,2007,Action,Tecmo Koei,0.2,53,27,7.4,13
+PS2,2007,Action,Tecmo Koei,0.87,55,14,8.2,16
+PSP,2008,Action,Tecmo Koei,0.2,62,13,6.6,10
+PSP,2008,Action,Tecmo Koei,0.29,56,14,7.5,4
+X360,2008,Action,Tecmo Koei,0.06,44,28,8.1,15
+PS2,2008,Action,Tecmo Koei,0.13,52,9,8.5,13
+PS3,2011,Action,Ubisoft Annecy,0.62,70,17,7.9,35
+X360,2011,Action,Ubisoft Annecy,0.16,71,9,8.1,19
+WiiU,2012,Action,Tecmo Koei,0.08,64,18,7.4,31
+PS3,2011,Action,Tecmo Koei,0.19,44,22,7,24
+PS2,2006,Simulation,Tecmo Koei,0.03,62,13,8.5,11
+X360,2006,Fighting,Ubisoft,0.04,60,33,6.1,7
+XOne,2015,Role-Playing,Deep Silver,0.05,77,13,7.1,56
+PC,2015,Role-Playing,inXile Entertainment,0.1,81,65,7.3,1170
+PC,2014,Action,Ubisoft,0.45,77,18,4.7,3288
+XOne,2014,Action,Ubisoft,1.57,78,15,5.8,712
+PS4,2014,Action,Ubisoft,4.05,80,80,6.3,2996
+WiiU,2014,Action,Ubisoft,0.13,62,15,6.4,162
+XOne,2016,Action,Ubisoft,0.36,83,9,7.7,131
+PS4,2016,Action,Ubisoft,1.13,83,88,7.8,621
+GC,2001,Racing,Nintendo,0.6,80,21,8.3,29
+PS2,2002,Action,Eidos Interactive,0.51,74,22,8.2,19
+PS2,2003,Action,Capcom,0.33,59,32,9,24
+PS3,2008,Action,Gamebridge,0.52,58,18,7.9,22
+X360,2009,Action,Gamebridge,0.21,55,22,6.8,16
+PS3,2011,Action,Nippon Ichi Software,0.19,58,25,6.5,15
+Wii,2008,Simulation,505 Games,0.52,56,12,7.3,13
+PS2,2005,Puzzle,Electronic Arts,0.52,86,61,8.9,51
+Wii,2008,Sports,Namco Bandai Games,1.67,67,32,8.5,12
+PS3,2009,Shooter,Bethesda Softworks,0.61,70,61,6.4,55
+PS3,2009,Platform,Warner Bros. Interactive Entertainment,0.11,53,8,4.8,4
+X360,2009,Platform,Warner Bros. Interactive Entertainment,0.11,51,10,5.4,5
+PS2,2003,Racing,Eidos Interactive,0.13,66,32,8.7,15
+PS2,2002,Sports,Crave Entertainment,0.22,58,9,7,5
+GC,2002,Sports,Vivendi Games,0.05,61,10,9,4
+PS3,2010,Role-Playing,Sony Computer Entertainment,0.63,60,45,7.1,64
+PS3,2008,Role-Playing,Sony Computer Entertainment,0.93,64,77,7.5,213
+Wii,2007,Sports,Nintendo,22.7,80,63,7.7,146
+Wii,2009,Sports,Nintendo,21.79,80,33,7.4,52
+WiiU,2013,Sports,Nintendo,0.85,72,19,7.7,72
+Wii,2008,Misc,Nintendo,3.25,63,43,4.6,116
+Wii,2010,Misc,Nintendo,8.38,68,42,7.4,54
+WiiU,2013,Misc,Nintendo,1.75,65,38,6.8,135
+Wii,2006,Misc,Nintendo,28.92,58,41,6.6,129
+Wii,2011,Misc,Nintendo,0.92,60,34,6.1,16
+Wii,2006,Sports,Nintendo,82.53,76,51,8,322
+WiiU,2014,Sports,Nintendo,0.38,68,21,7,106
+Wii,2009,Sports,Nintendo,32.77,80,73,8,192
+PS2,2002,Role-Playing,Ubisoft,0.62,78,30,8.4,38
+PS2,2005,Role-Playing,505 Games,0.14,69,38,7.3,17
+PS2,2006,Role-Playing,505 Games,0.28,71,26,7.5,22
+PSP,2007,Role-Playing,505 Games,0.14,64,22,6.6,19
+PS2,2003,Role-Playing,Sony Computer Entertainment,0.09,73,25,8.3,26
+PC,2014,Role-Playing,NCSoft,0.16,82,52,7.4,965
+PS2,2000,Shooter,Midas Interactive Entertainment,0.29,66,11,7.7,20
+GBA,2003,Simulation,"Destination Software, Inc",0.05,70,8,8.3,7
+Wii,2006,Simulation,Konami Digital Entertainment,0.05,47,32,4.9,8
+XB,2004,Simulation,Take-Two Interactive,0.06,62,29,5,5
+X360,2006,Sports,Konami Digital Entertainment,0.1,79,22,6.5,33
+DS,2006,Sports,Konami Digital Entertainment,0.17,63,5,7.9,12
+PSP,2006,Sports,Konami Digital Entertainment,0.86,81,10,8.3,14
+PS2,2006,Sports,Konami Digital Entertainment,4.39,86,19,8.9,33
+Wii,2007,Sports,RTL,1.24,52,15,6.8,4
+X360,2011,Sports,Deep Silver,0.09,46,9,6.5,4
+PSV,2012,Racing,Sony Computer Entertainment,0.35,79,63,8.2,191
+PS,1999,Racing,Psygnosis,0.34,89,14,8.5,15
+PS2,2002,Racing,Sony Computer Entertainment,0.25,83,21,8.5,43
+PS3,2009,Racing,Sony Computer Entertainment,0.07,89,15,8.4,115
+PSP,2007,Racing,Sony Computer Entertainment,0.31,82,40,8.6,31
+PSP,2005,Racing,Sony Computer Entertainment,1.03,88,56,7.9,102
+PS,1996,Racing,Psygnosis,0.25,93,8,8.7,20
+X360,2011,Misc,Activision,0.93,39,5,5.6,8
+PS2,2005,Shooter,Capcom,0.04,45,25,6.5,8
+PS2,2001,Role-Playing,Ubisoft,0.09,70,14,7.5,6
+PC,2009,Shooter,Activision,0.05,74,41,7.3,261
+PS3,2009,Shooter,Activision,0.63,71,58,7.4,77
+X360,2009,Shooter,Activision,0.56,72,66,7.5,128
+GBA,2002,Shooter,BAM! Entertainment,0.17,57,9,6,7
+XOne,2014,Shooter,Bethesda Softworks,0.68,79,18,7.8,397
+PS4,2014,Shooter,Bethesda Softworks,1.55,79,73,8.1,1116
+PC,2014,Shooter,Bethesda Softworks,0.45,81,23,8.2,1647
+PC,2015,Action,Bethesda Softworks,0.09,76,30,7.6,338
+XOne,2015,Action,Bethesda Softworks,0.15,75,23,8,101
+PS4,2015,Action,Bethesda Softworks,0.43,76,54,8,267
+PS2,2007,Sports,Spike,0.03,32,7,4,4
+Wii,2008,Misc,Majesco Entertainment,0.05,37,9,4.5,4
+PS2,2001,Platform,DreamCatcher Interactive,0.05,64,5,7.4,5
+DS,2007,Puzzle,White Park Bay Software,0.15,77,9,7.7,9
+PS2,2004,Misc,Play It,0.95,60,8,7.7,11
+PSP,2005,Misc,505 Games,0.14,65,17,2.8,17
+PS2,2004,Sports,Jaleco,0.05,60,4,6.7,6
+PS,2000,Action,3DO,0.17,35,4,1.2,6
+PS2,2000,Action,3DO,0.17,65,16,5.9,7
+PC,2007,Strategy,Vivendi Games,0.04,89,44,8.1,301
+PS4,2016,Role-Playing,Square Enix,0.33,77,74,8.3,222
+PSV,2016,Role-Playing,Square Enix,0.21,77,5,8.6,46
+PC,2008,Puzzle,2D Boy,0.04,90,26,8.5,607
+X360,2010,Racing,THQ,0.18,57,4,8.1,10
+PS2,2002,Racing,Ignition Entertainment,0.48,80,10,9.1,10
+PC,2011,Shooter,Wargaming.net,0.29,80,38,3.7,1466
+PC,2004,Role-Playing,Activision,6.29,93,57,7.3,2182
+PC,2010,Role-Playing,Activision,2.08,90,53,5.6,953
+PC,2016,Role-Playing,Activision,0.32,88,62,7.5,535
+PC,2012,Role-Playing,Activision,1.82,82,42,4.8,1265
+PC,2007,Role-Playing,Activision,4.09,91,46,7.9,785
+PC,2014,Action,Activision Blizzard,0.47,87,49,5.9,1154
+PC,2008,Role-Playing,Activision,1.32,91,47,7.5,930
+XB,2005,Misc,Take-Two Interactive,0.06,63,17,7.8,4
+PS2,2005,Misc,Take-Two Interactive,0.21,60,17,8.6,5
+XB,2003,Racing,TDK Mediactive,0.07,56,14,8.1,8
+XB,2002,Sports,Sega,0.23,85,20,8.8,6
+XB,2003,Sports,Sega,0.15,89,22,8.6,14
+PS2,2003,Sports,Sega,0.25,87,21,8.7,19
+PSP,2005,Misc,Activision,0.21,37,6,6.4,20
+PS2,2005,Misc,Activision,0.47,46,15,8.2,20
+X360,2007,Misc,Activision,0.08,74,10,6.7,6
+PS2,2002,Sports,Konami Digital Entertainment,2.99,93,24,9.1,65
+PS2,2003,Sports,Konami Digital Entertainment,2.9,93,28,9,45
+XB,2004,Sports,Konami Digital Entertainment,0.09,90,25,8.4,11
+PS2,2004,Sports,Konami Digital Entertainment,3.85,91,26,9.1,38
+XB,2005,Sports,Konami Digital Entertainment,0.44,89,19,7.9,9
+PSP,2005,Sports,Sony Computer Entertainment,1.07,70,31,5.6,5
+PS2,2001,Sports,Sony Computer Entertainment,0.14,77,21,7.5,10
+PS2,2002,Sports,Sony Computer Entertainment,0.14,78,21,8.3,7
+PS2,2004,Sports,Sony Computer Entertainment,0.16,68,28,9,6
+PS2,2004,Sports,Sony Computer Entertainment,0.17,56,20,6,7
+PS,2001,Racing,Activision,0.36,54,16,6.3,4
+PC,2009,Strategy,Playlogic Game Factory,0.02,63,9,8.1,8
+PC,2007,Sports,Russel,1.12,86,15,8,19
+PC,2008,Simulation,Sega,1.15,83,29,8.1,30
+X360,2007,Strategy,Microsoft Game Studios,0.02,75,25,6.9,28
+PS3,2009,Strategy,Sony Computer Entertainment,0.02,76,9,6.9,18
+GC,2003,Strategy,Sega,0.07,69,23,7.6,19
+PS2,2003,Strategy,Sega,0.12,70,31,7.8,22
+XB,2003,Strategy,Sega,0.06,69,20,8.4,10
+XB,2005,Strategy,Codemasters,0.04,69,27,9.2,6
+XB,2004,Strategy,Sega,0.07,67,15,8,6
+PS2,2004,Strategy,Acclaim Entertainment,0.11,63,21,8,15
+PC,2010,Strategy,Team17 Software,0.05,79,28,6.8,185
+PC,2001,Strategy,Virgin Interactive,0.02,75,8,7.6,68
+Wii,2008,Strategy,THQ,0.08,64,26,4.3,13
+PSP,2006,Strategy,THQ,0.77,70,22,6.6,18
+DS,2006,Strategy,THQ,0.08,64,24,7,16
+PSP,2007,Strategy,THQ,0.44,80,26,8.1,25
+DS,2007,Strategy,THQ,0.35,81,25,9.1,22
+PC,2011,Strategy,Unknown,0.04,66,4,7.8,48
+PS4,2016,Action,Sold Out,0.03,78,23,7.6,19
+XOne,2016,Action,Sold Out,0.01,75,24,8.1,7
+PS2,2004,Strategy,LucasArts,0.07,64,25,6,6
+XB,2004,Strategy,LucasArts,0.05,69,32,7,4
+PSP,2005,Racing,Sony Computer Entertainment,0.03,67,18,7.8,19
+XB,2002,Racing,Activision,0.57,74,36,5.2,13
+Wii,2011,Fighting,THQ,0.34,74,6,5.2,9
+X360,2011,Fighting,THQ,1.27,71,52,6.3,89
+PS3,2011,Fighting,THQ,1.17,72,28,6.9,80
+Wii,2012,Action,THQ,0.15,74,4,6,9
+X360,2012,Action,THQ,1.27,78,46,8,110
+PS3,2012,Action,THQ,1.35,76,24,8.1,99
+PS3,2013,Sports,Take-Two Interactive,1.14,74,22,7.5,121
+X360,2013,Sports,Take-Two Interactive,1.11,75,43,7.7,100
+PS3,2014,Sports,Take-Two Interactive,0.78,55,5,3.1,57
+X360,2014,Sports,Take-Two Interactive,0.64,50,5,4,65
+PS4,2014,Sports,Take-Two Interactive,1.15,62,44,5.1,164
+XOne,2014,Sports,Take-Two Interactive,0.57,56,25,5.7,63
+XOne,2015,Sports,Take-Two Interactive,0.59,72,18,5.7,75
+PS4,2015,Sports,Take-Two Interactive,1.21,73,47,7.4,237
+XOne,2016,Sports,Take-Two Interactive,0.26,68,12,5.5,27
+PS4,2016,Sports,Take-Two Interactive,0.6,69,50,6.9,88
+PS3,2011,Fighting,THQ,0.41,75,51,6.4,36
+PSP,2011,Fighting,THQ,0.18,70,4,6.6,5
+Wii,2011,Fighting,THQ,0.19,68,11,7,8
+X360,2011,Fighting,THQ,0.34,75,64,7.2,45
+3DS,2011,Fighting,THQ,0.23,71,12,7.4,7
+PS2,2003,Racing,THQ,0.35,56,13,5.3,8
+GC,2003,Racing,THQ,0.08,55,14,7,5
+GC,2004,Fighting,THQ,0.45,79,47,9.1,81
+GC,2005,Fighting,THQ,0.34,76,36,6,263
+XB,2003,Fighting,THQ,0.56,68,26,7.3,25
+GBA,2002,Fighting,THQ,0.27,73,10,7.5,6
+Wii,2007,Fighting,THQ,0.98,59,13,5.9,18
+DS,2007,Fighting,THQ,0.12,61,12,6.6,13
+X360,2007,Fighting,THQ,1.43,71,41,6.8,48
+PS2,2007,Fighting,THQ,2.34,71,11,7.2,31
+PS3,2007,Fighting,THQ,1.33,74,27,7.3,41
+PSP,2007,Fighting,THQ,1.19,68,11,7.8,15
+X360,2006,Fighting,THQ,0.5,81,50,7.8,46
+PSP,2006,Fighting,THQ,0.66,78,13,8.1,21
+PS2,2006,Fighting,THQ,2.58,80,27,8.6,57
+PSP,2008,Fighting,THQ,0.75,72,9,6,9
+PS2,2008,Fighting,THQ,1.24,78,9,6.9,34
+PS3,2008,Fighting,THQ,0.94,78,37,7,49
+X360,2008,Fighting,THQ,0.92,79,47,7.1,34
+DS,2008,Fighting,THQ,0.18,58,15,7.8,6
+Wii,2008,Fighting,THQ,0.83,79,18,8.5,18
+Wii,2009,Fighting,THQ,0.73,78,11,7.7,9
+PS3,2009,Fighting,THQ,1.17,81,38,8.1,55
+DS,2009,Fighting,THQ,0.53,75,7,8.3,4
+X360,2009,Fighting,THQ,1.04,80,59,8.4,36
+PS3,2010,Fighting,THQ,1.09,74,42,6.9,41
+X360,2010,Fighting,THQ,0.88,75,49,7.6,45
+PSP,2005,Fighting,THQ,0.4,81,30,8.5,37
+GBA,2004,Fighting,THQ,0.13,55,12,8.2,5
+XB,2005,Fighting,THQ,0.45,56,48,6.9,47
+GC,2002,Fighting,THQ,0.49,64,25,6.9,20
+GC,2003,Fighting,THQ,0.33,76,26,8.7,47
+XB,2002,Fighting,THQ,0.55,68,33,6.6,15
+Wii,2008,Simulation,Destineer,0.27,41,7,5.4,18
+PC,2013,Simulation,Koch Media,0.08,33,24,3.3,1340
+XB,2003,Platform,Activision,0.21,58,27,6.4,9
+GC,2003,Platform,Activision,0.12,62,21,6.6,8
+GBA,2003,Platform,Activision,0.2,72,8,7.2,5
+PS2,2003,Platform,Activision,0.64,58,24,7.2,13
+PC,2008,Simulation,Deep Silver,0.03,73,16,7.9,222
+X360,2009,Action,SouthPeak Games,0.14,50,39,5.4,14
+PS3,2009,Action,SouthPeak Games,0.13,50,31,5.9,15
+PSV,2013,Adventure,Arc System Works,0.03,43,5,7.4,24
+PS3,2015,Adventure,Arc System Works,0.02,63,4,6.2,5
+PC,2016,Strategy,Take-Two Interactive,0.23,88,104,7.1,1221
+PS4,2016,Strategy,Take-Two Interactive,0.14,88,28,8,116
+XOne,2016,Strategy,Take-Two Interactive,0.05,87,17,8.1,40
+PS3,2012,Strategy,Take-Two Interactive,0.57,89,20,8.2,296
+PC,2012,Strategy,Take-Two Interactive,0.71,89,57,8.2,2235
+X360,2012,Strategy,Take-Two Interactive,0.62,90,35,8.3,366
+Wii,2010,Role-Playing,Nintendo,0.91,92,59,8.9,950
+WiiU,2015,Role-Playing,Nintendo,0.84,84,87,8.9,1548
+PS,1998,Role-Playing,SquareSoft,1.46,84,15,8.4,204
+PS2,2002,Role-Playing,Namco Bandai Games,1.74,83,35,8.7,99
+PS2,2006,Role-Playing,Namco Bandai Games,0.37,81,34,9,59
+GC,2001,Racing,Acclaim Entertainment,0.15,83,21,7.8,14
+XB,2003,Racing,Acclaim Entertainment,0.02,66,15,6.8,5
+GC,2003,Racing,Acclaim Entertainment,0.02,69,13,7,5
+PS2,2003,Racing,Acclaim Entertainment,0.06,68,23,8.6,8
+PS2,2004,Racing,Eidos Interactive,0.62,68,23,8.6,8
+GC,2003,Shooter,Ubisoft,0.09,73,27,7.7,20
+XB,2003,Shooter,Ubisoft,0.25,74,38,8.3,15
+PS2,2003,Shooter,Ubisoft,0.57,73,37,8.6,35
+GC,2004,Role-Playing,Activision,0.53,81,36,8.5,11
+XB,2004,Role-Playing,Activision,0.9,82,63,8.5,14
+PS2,2004,Role-Playing,Activision,1.93,79,48,8.5,69
+GC,2005,Role-Playing,Activision,0.25,82,34,6.2,26
+PS2,2005,Role-Playing,Activision,0.63,82,44,7.3,41
+PSP,2005,Role-Playing,Activision,0.29,84,30,8.2,43
+XB,2005,Role-Playing,Activision,0.44,84,50,8.7,199
+Wii,2009,Action,Activision,0.25,53,8,6.1,10
+PSP,2009,Action,Activision,0.19,60,6,7.5,12
+DS,2009,Action,Activision,0.2,55,8,8.1,8
+Wii,2011,Action,Activision,0.1,36,10,4.5,15
+PS3,2011,Action,Activision,0.24,50,33,4.8,37
+X360,2011,Action,Activision,0.24,47,51,5,72
+DS,2011,Action,Activision,0.06,33,6,5.6,7
+PS,2001,Fighting,Activision,0.72,72,12,8.4,18
+GC,2002,Fighting,Activision,0.13,63,17,8.2,11
+PS2,2002,Fighting,Activision,0.47,61,19,8.7,13
+X360,2006,Action,Activision,0.17,52,57,6.1,20
+GC,2006,Action,Activision,0.15,50,31,6.3,8
+PS2,2006,Action,Activision,0.41,52,44,7.5,20
+DS,2006,Action,Activision,0.1,50,17,7.8,6
+XB,2006,Action,Activision,0.1,53,38,8.1,7
+GBA,2006,Action,Activision,0.07,55,9,9.3,6
+GBA,2002,Action,Activision,0.11,50,13,5,4
+XB,2003,Shooter,THQ,0.05,70,19,9.3,9
+PS3,2014,Action,Tecmo Koei,0.09,43,46,4.5,84
+X360,2014,Action,Tecmo Koei,0.05,50,20,5.3,43
+PS2,2005,Action,Sega,0.8,75,58,8.2,73
+PS2,2006,Adventure,Sega,1.09,77,34,8.1,52
+PS3,2009,Action,Sega,1.12,79,77,8.1,165
+PS3,2012,Action,Sega,0.59,83,34,8.5,180
+PS3,2011,Shooter,Sega,0.6,64,55,7.4,69
+PS2,2001,Sports,Tecmo Koei,0.05,58,13,6.3,7
+PSP,2008,Role-Playing,Sting,0.1,73,17,7.9,18
+GBA,2004,Platform,Nintendo,0.65,60,23,6.6,5
+DS,2006,Platform,Nintendo,2.76,81,42,7.4,67
+3DS,2014,Platform,Nintendo,1.38,64,71,6.1,155
+WiiU,2015,Platform,Nintendo,1.3,78,83,8.5,376
+PS3,2011,Misc,THQ,0.18,82,11,7.3,18
+Wii,2011,Misc,THQ,0.21,81,5,7.7,6
+X360,2011,Misc,THQ,0.21,82,23,7.9,29
+Wii,2009,Sports,Ubisoft,2.12,62,5,5.2,54
+X360,2010,Sports,Ubisoft,1.32,73,32,7.5,25
+X360,2011,Sports,Ubisoft,1.16,77,13,7.6,21
+WiiU,2012,Action,Ubisoft,0.13,76,8,6.3,16
+X360,2008,Misc,Microsoft Game Studios,0.48,55,21,5.5,20
+PSP,2009,Role-Playing,Falcom Corporation,0.23,79,27,8.5,65
+PSV,2012,Action,Nihon Falcom Corporation,0.24,82,56,8.8,237
+PS2,2005,Role-Playing,Konami Digital Entertainment,0.13,72,35,8.8,14
+PSP,2006,Role-Playing,Konami Digital Entertainment,0.05,64,29,7.3,13
+PSP,2010,Role-Playing,Falcom Corporation,0.15,80,25,8.3,57
+3DS,2013,Platform,Agatsuma Entertainment,0.03,74,13,7.7,23
+PS2,2005,Adventure,Take-Two Interactive,0.12,43,16,2,5
+XB,2005,Adventure,Take-Two Interactive,0.02,48,15,5.5,4
+3DS,2012,Adventure,Rising Star Games,0.03,88,15,8.8,188
+PSV,2016,Adventure,Aksys Games,0.06,83,31,8.3,116
+3DS,2016,Adventure,Aksys Games,0.08,81,18,8.5,72
+X360,2007,Strategy,Takara Tomy,0.09,46,17,7.3,7
+PS4,2015,Shooter,Rebellion Developments,0.2,62,26,6.8,88
+XOne,2015,Shooter,Rebellion Developments,0.11,62,10,7.2,40
+WiiU,2012,Action,Ubisoft,1.01,77,70,7.7,758
+PS2,2001,Shooter,Konami Digital Entertainment,0.75,78,21,7.4,49
+PS3,2012,Simulation,Konami Digital Entertainment,0.42,73,27,8,42
+X360,2012,Simulation,Konami Digital Entertainment,0.2,75,21,8.8,20
+PS2,2003,Simulation,Konami Digital Entertainment,0.41,82,33,8.9,65
+GBA,2001,Role-Playing,Konami Digital Entertainment,0.06,71,12,9,9
+DS,2004,Puzzle,Ignition Entertainment,0.16,74,40,7.5,13
+PC,2004,Strategy,Microsoft Game Studios,0.06,72,34,8.1,43
+DS,2008,Strategy,THQ,0.29,60,17,5.4,7
+DS,2005,Strategy,THQ,0.98,44,19,6.6,25
+GC,2002,Puzzle,Acclaim Entertainment,0.02,67,15,6.1,7
+DS,2008,Misc,Electronic Arts,0.11,75,19,7.6,75
+X360,2010,Sports,505 Games,2.37,42,10,5.5,16
+X360,2012,Misc,505 Games,0.05,77,6,6.7,6
+X360,2012,Sports,505 Games,0.18,73,7,6.2,5
+XOne,2013,Misc,Majesco Entertainment,0.24,73,5,6.2,40
