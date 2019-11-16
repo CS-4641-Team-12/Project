@@ -25,7 +25,7 @@ The features include metrics such as genre, year of release, platform, publisher
 
 We did not use this entire dataset and arbitrarily picked out 6204 games for our training set and 690 games for our test set. the breakdown of the genres of training set were as follows.
 
-![Image of genres](https://github.com/CS-4641-Team-12/Project/blob/master/images/genres.png)
+![Image of genres](/images/genres.png)
 
 ## Preprocessing
 
