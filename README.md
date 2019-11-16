@@ -19,12 +19,19 @@ The dataset that we used was from [kaggle](https://www.kaggle.com/rush4ratio/vid
 #### Characteristics of the data
 
 There were a total of 16720 games in the dataset from 1980 to 2020.
-We did not use the entire dataset as our training set had 6204 games and our test set had 690 games.
 The features include metrics such as genre, year of release, platform, publisher, scores by critics and users, as well as some that we did not use such as sales in various regions, rating, etc. (Note that only games that were released before 2016 had any sales numbers.)
 
 ![Image of data](https://github.com/CS-4641-Team-12/Project/blob/master/images/data.PNG)
 
+We did not use this entire dataset and arbitrarily picked out 6204 games for our training set and 690 games for our test set. the breakdown of the genres of training set were as follows.
+
+![Image of genres](https://github.com/CS-4641-Team-12/Project/blob/master/images/genres.png)
+
 ## Preprocessing
+
+## Comparisons of Different Regression Models
+
+## Cross Validations for Different Models
 
 ## Conclusion
 
