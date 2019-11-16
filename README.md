@@ -33,6 +33,8 @@ We did not use this entire dataset but picked out effctive 6204 games for as tra
 
 ## Conclusion
 
+![Image of result comparisons](/images/resultsComparisons.PNG)
+
 Ridge regression was the best for this dataset out of linear regression, lasso regression, elastic net regression, and itself with an RMSE value of 1.429764 and a r^2 value of 0.305834. While this may be the optimal model for the regressions, it is still not a strong correlation by any means as the r^2 value, at best can only indicate a weak correlation between the factors that we had used as predictors and the scores that were given on Metacritic by fans and critics.
 
 ## Citations
