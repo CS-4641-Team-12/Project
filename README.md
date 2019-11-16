@@ -1,7 +1,6 @@
 ## Introduction
 
-Our project focuses on video games and predicting the amount of success that they have. We used the factors of genre, year of release, platform, and publisher in order to predict how good a game would be. We defined how good a game is as the scores that are given by both the users as well as critics as scraped from the website, Metacritic.
-
+Our project focuses on video games and predicting the amount of success that they have. We used the factors of genre, year of release, platform, publisher and rating scores/counts from critic/players in order to predict how good a game would be. We defined how good a game is as the sales on the global area.
 ## Importance
 
 Gaming has already become a massive industry that not only competes with how much other industries such as movies and music, but even have more money put into the industry. Furthermore, if current trends continue as projected, they will grow even more as can be seen in the figure below.
