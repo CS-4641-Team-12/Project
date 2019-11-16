@@ -12,11 +12,25 @@ Although we can clearly see that gaming is a growing industry from the graph tha
 
 As can be seen from the above, it is very clear that gamers very much skew towards a younger audience. As with any industry, it is highly likely that people who are young and gaming, will continue to game and continue to contribute to the growth of the industry.
 
-### Dataset
+## Dataset
 
-The dataset that we used 
+The dataset that we used was from [kaggle](https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings).
 
-### Citations
+#### Characteristics of the data
+
+There were a total of 16720 games in the dataset from 1980 to 2020.
+We did not use the entire dataset as our training set had 6204 games and our test set had 690 games.
+The features include metrics such as genre, year of release, platform, publisher, scores by critics and users, as well as some that we did not use such as sales in various regions, rating, etc. (Note that only games that were released before 2016 had any sales numbers.)
+
+![Image of data](https://github.com/CS-4641-Team-12/Project/blob/master/images/data.PNG)
+
+## Preprocessing
+
+## Conclusion
+
+Ridge regression was the best for this dataset out of linear regression, lasso regression, elastic net regression, and itself with an RMSE value of 1.429764 and a r^2 value of 0.305834. While this may be the optimal model for the regressions, it is still not a strong correlation by any means as the r^2 value, at best can only indicate a weak correlation between the factors that we had used as predictors and the scores that were given on Metacritic by fans and critics.
+
+## Citations
 
 Kirubi, Rush. “Video Game Sales with Ratings.” Kaggle, 30 Dec. 2016, https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings.
 
