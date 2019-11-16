@@ -5,10 +5,10 @@ Our project focuses on video games and predicting the amount of success that the
 ## Importance
 
 Gaming has already become a massive industry that not only competes with how much other industries such as movies and music, but even have more money put into the industry. Furthermore, if current trends continue as projected, they will grow even more as can be seen in the figure below.
-![Image of Comparison to film and music](https://github.com/CS-4641-Team-12/Project/blob/master/images/comparison.PNG)
+![Image of Comparison to film and music](/images/comparison.PNG)
 
 Although we can clearly see that gaming is a growing industry from the graph that is seen above, there are also other indicators that gaming will be an industry that continues to grow: in particualar, who plays games.
-![Image of age groups that game](https://github.com/CS-4641-Team-12/Project/blob/master/images/ageGroups.PNG)
+![Image of age groups that game](/images/ageGroups.PNG)
 
 As can be seen from the above, it is very clear that gamers very much skew towards a younger audience. As with any industry, it is highly likely that people who are young and gaming, will continue to game and continue to contribute to the growth of the industry.
 
@@ -21,7 +21,7 @@ The dataset that we used was from [kaggle](https://www.kaggle.com/rush4ratio/vid
 There were a total of 16720 games in the dataset from 1980 to 2020.
 The features include metrics such as genre, year of release, platform, publisher, scores by critics and users, as well as some that we did not use such as sales in various regions, rating, etc. (Note that only games that were released before 2016 had any sales numbers.)
 
-![Image of data](https://github.com/CS-4641-Team-12/Project/blob/master/images/data.PNG)
+![Image of data](/images/data.PNG)
 
 We did not use this entire dataset and arbitrarily picked out 6204 games for our training set and 690 games for our test set. the breakdown of the genres of training set were as follows.
 
