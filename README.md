@@ -1,37 +1,25 @@
 ## Introduction
 
-You can use the [editor on GitHub](https://github.com/CS-4641-Team-12/Project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Our project focuses on video games and predicting the amount of success that they have. We used the factors of genre, year of release, platform, and publisher in order to predict how good a game would be. We defined how good a game is as the scores that are given by both the users as well as critics as scraped from the website, Metacritic.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Importance
 
-### Markdown
+Gaming has already become a massive industry that not only competes with how much other industries such as movies and music, but even have more money put into the industry. Furthermore, if current trends continue as projected, they will grow even more as can be seen in the figure below.
+![Image of Comparison to film and music](https://github.com/CS-4641-Team-12/Project/blob/master/images/comparison.PNG)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Although we can clearly see that gaming is a growing industry from the graph that is seen above, there are also other indicators that gaming will be an industry that continues to grow: in particualar, who plays games.
+![Image of age groups that game](https://github.com/CS-4641-Team-12/Project/blob/master/images/ageGroups.PNG)
 
-```markdown
-Syntax highlighted code block
+As can be seen from the above, it is very clear that gamers very much skew towards a younger audience. As with any industry, it is highly likely that people who are young and gaming, will continue to game and continue to contribute to the growth of the industry.
 
-# Header 1
-## Header 2
-### Header 3
+### Dataset
 
-- Bulleted
-- List
+The dataset that we used 
 
-1. Numbered
-2. List
+### Citations
 
-**Bold** and _Italic_ and `Code` text
+Kirubi, Rush. “Video Game Sales with Ratings.” Kaggle, 30 Dec. 2016, https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings.
 
-[Link](url) and ![Image](src)
-```
+“The Video Games' Industry Is Bigger Than Hollywood.” LPE Esports, https://lpesports.com/e-sports-news/the-video-games-industry-is- bigger-than-hollywood.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CS-4641-Team-12/Project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+“U.S. Average Age of Video Gamers 2019.” Statista, https://www.statista.com/statistics/189582/age-of-us-video-game-players-since-2010/.
