@@ -1,6 +1,7 @@
 ## Introduction
 
-Our project focuses on video games and predicting the amount of success that they have. We used the factors of genre, year of release, platform, publisher and rating scores/counts from critics/players in order to predict how good a game would be. We defined how good a game is as the sales on the global area.
+Our project focuses on video games and predicting the amount of success that they have. We used the factors of genre, year of release, platform, publisher and rating scores/counts from critics/players in order to predict how good a game would be. We defined how good a game is as the sales all over the world.
+
 ## Importance
 
 Gaming has already become a massive industry that not only competes with how much other industries such as movies and music, but even have more money put into the industry. Furthermore, if current trends continue as projected, they will grow even more as can be seen in the figure below.
@@ -22,9 +23,7 @@ The features include metrics such as genre, year of release, platform, publisher
 
 ![Image of data](/images/data.PNG)
 
-We did not use this entire dataset and arbitrarily picked out 6204 games for our training set and 690 games for our test set. the breakdown of the genres of training set were as follows.
-
-![Image of genres](/images/genres.png)
+We did not use this entire dataset but picked out effctive 6204 games for as train data set and 690 games as test data set.
 
 ## Preprocessing
 
