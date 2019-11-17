@@ -61,10 +61,17 @@ We discover that there are 12 genres which is finite, and we will represent each
 
 We perform One-Hot Encoding for all four categorical features as exemplified above with the Genre feature and convert them into binary values so that we can apply them to different regression models.
 
-## Comparisons of Different Regression Models
-![Image of result comparison](/images/resultConparisons2.png)
+#### Different Regression Models
 
-Using the data we got about the video games sales with ratings, we performed linear regression, ridge regression, lasso regression, and elastic net regression through the SKLearn methods. According to the data table above, we would get the result: the optimal model to use for predicting is ridge regression because ridge regression has the lowest root mean square error and the highest R square score value among those four regression models.
+## Linear Regression
+![Image of linear regression](/images/linearregression.png)
+## Ridge Regression
+![Image of ridge regression](/images/ridgeregression.png)
+## Lasso Regression
+![Image of lasso regression](/images/lassoregression.png)
+## Elastic Net Regression
+![Image of net regression](/images/netregression.png)
+
 
 ## Cross Validations for Different Models
 ![Image of features with corresponding coefficients](/images/Features.png)
