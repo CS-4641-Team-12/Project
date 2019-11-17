@@ -35,6 +35,10 @@ We will examine different regression models such as linear regression, ridge reg
 
 Different than regression we did on our projects, we need to convert categorical variables into continuous variables before performing regressions because this is a real world dataset. This dataset contains categorical variables which can not be used in regression models because they require numerical values. We choose to use one-hot encoding to deal with this situation.
 
+## What is new?
+
+We used different kinds of linear model such as ridge regression, lasso regression and elastic net regression to train and test our data set. Also we applied cross validation through scikit-learn library to get best alpha value for different models.
+
 ## Data Preprocessing
 
 #### Data Cleaning
