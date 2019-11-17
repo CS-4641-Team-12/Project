@@ -31,8 +31,8 @@ In this project, we will use supervised learning because we want to use features
 
 We will use mutiple regression as the approach to find out the pattern and predict the values of the rating on additional unlabeled data because there are eight independent variables: Platform, Year_of_Release, Genre, Publisher, Critic_Score, Critic_Count, User_Score, User_Count, and we want to determine the degree to which these independent variales are influencing the rating, the dependent variable.
 
-Steps:
-* Perform One-hot Coding on dataset
+#### Steps:
+* Perform One-hot Encoding on dataset
 * Examine different regression models
   * Linear regression
   * Ridge regression
