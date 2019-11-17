@@ -64,6 +64,7 @@ Using the data we got about the video games sales with ratings, we performed lin
 
 ## Cross Validations for Different Models
 ![Image of features with corresponding coefficients](/images/Features.png)
+
 ![Image of Linear Regression Coefficients](/images/LinearCoeff.png)
 ![Image of Ridge Regression Coefficients](/images/RidgeCoeff.png)
 ![Image of Lasso Regression Coefficients](/images/LassoCoeff.png)
