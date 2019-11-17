@@ -14,16 +14,16 @@ As can be seen from the above, it is very clear that gamers very much skew towar
 
 ## Dataset
 
-The dataset that we used was from [kaggle](https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings).
+The dataset that we used was from [kaggle](https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings). Both the full dataset as well as the training and test sets that we used can be found on our github repository.
 
 #### Characteristics of the data
 
 There were a total of 16720 games in the dataset from 1980 to 2020.
-The features include metrics such as genre, year of release, platform, publisher, scores by critics and users, as well as some that we did not use such as sales in various regions, rating, etc. (Note that only games that were released before 2016 had any sales numbers.)
+The features include metrics such as genre, year of release, platform, publisher, scores by critics and users, as well as some that we did not use such as sales in various regions, etc. (Note that only games that were released before 2016 had any sales numbers.)
 
 ![Image of data](/images/data.PNG)
 
-We did not use this entire dataset but picked out effctive 6204 games for as train data set and 690 games as test data set.
+We did not use this entire dataset but picked out 6204 games for as training data set and 690 games as test data set.
 
 ## Approach
 
@@ -89,7 +89,7 @@ We will perform linear regression, ridge regression, lasso regression and elasti
 ![Image of Ridge Regression Coefficients](/images/RidgeCoeff.png)
 ![Image of Lasso Regression Coefficients](/images/LassoCoeff.png)
 
-Based on the coefficients graph for linear, ridge, and lasso regression after cross validation, we can see that the range of coefficient magnitude is smallest for ridge regression and highest for linear regression. This indicates that the Ridge Regression is the optimal regression model to predict the data we want similar to the observation above. While performing the lasso and ridge regression with the cross validation, we got the result that the best alpha value to choose is the 0.6 and 10, respectively, Those best alpha values are third component of the alpha values we used. If we look at the table above, we can see that "genre" is the feature that the third coefficient is representing. Based on these results, we can say that in order to get the best prediction of global sales of a game, we can use the ridge regression model with the relationship between genre of the game and global sales of the game.
+Based on the coefficients graphs for linear, ridge, and lasso regression after cross validation, we can see that the range of coefficient magnitude is smallest for ridge regression and highest for linear regression. This indicates that the ridge regression is the optimal regression model to predict the data we want. While performing lasso and ridge regression with cross validation, the best alpha value to choose were 0.6 and 10, respectively. Those alpha values were the third component of the alpha values we used. If we look at the table above, we can see that "genre" is the feature that the third coefficient is representing. Based on these results, we can say that in order to get the best prediction of global sales of a game, we can use the ridge regression model with the relationship between genre of the game and global sales of the game.
 
 ## Conclusion
 
