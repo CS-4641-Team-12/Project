@@ -40,8 +40,7 @@ We will use mutiple regression as the approach to find out the pattern and predi
   * Elastic net regression
 * Perform Cross Validation on each model
 
-## What is new?
-
+#### What is new?
 For the categorical variables, we apply one-hot encoding using pandas library to make them usable in our models.
  
 We also used different kinds of linear model such as ridge regression, lasso regression and elastic net regression to train and test our data set. Also we applied cross validation through scikit-learn library to get best alpha value for different models.
