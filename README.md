@@ -58,8 +58,17 @@ We discover that there are 12 genres which is finite, and we will represent each
 We perform One-Hot Encoding for all four categorical features as exemplified above with the Genre feature and convert them into binary values so that we can apply them to different regression models.
 
 ## Comparisons of Different Regression Models
+![Image of result comparison](/images/resultConparisons2.png)
+
+Using the data we got about the video games sales with ratings, we performed linear regression, ridge regression, lasso regression, and elastic net regression through the SKLearn methods. According to the data table above, we would get the result: the optimal model to use for predicting is ridge regression because ridge regression has the lowest root mean square error and the highest R square score value among those four regression models.
 
 ## Cross Validations for Different Models
+![Image of features with corresponding coefficients](/images/Features.png)
+![Image of Linear Regression Coefficients](/images/LinearCoeff.png)
+![Image of Ridge Regression Coefficients](/images/RidgeCoeff.png)
+![Image of Lasso Regression Coefficients](/images/LassoCoeff.png)
+
+Based on the coefficients graph for linear, ridge, and lasso regression after cross validation, we can see that the range of coefficient magnitude is smallest for ridge regression and highest for linear regression. This indicates that the Ridge Regression is the optimal regression model to predict the data we want similar to the observation above. While performing the lasso and ridge regression with the cross validation, we got the result that the best alpha value to choose is the 0.6 and 10, respectively, Those best alpha values are third component of the alpha values we used. If we look at the table above, we can see that "Genre" is the feature that third coefficient is representing. Based on these results, we can say that in order to get the best prediction of global sales of a game, we can use the ridge regression model with the relationship between genre of the game and global sales of the game.
 
 ## Conclusion
 
