@@ -35,15 +35,17 @@ There are 4 CONTINUOUS VARIABLES in the dataset: Critic_Score, Critic_Count, Use
 
 There are 4 CATEGORICAL VARIABLES in the dataset: Platform, Year_of_Release, Genre, Publisher
 
-We use one-hot encoding to convert categorical data ito integer data because the regression model we intend to use in our project requires numerical values.
+We use one-hot encoding to convert categorical data into integer data because the regression model we intend to use in our project requires numerical values.
 
 Using Genre as an example to perform one-hot encoding:
 
 ![Image of Genre Distribution](/images/genres.png)
 
-We discover that there are 12 genres which is finite, and we will represent each genre as a binary vector. Each vector will a length of 12 for the 12 possible values.
+We discover that there are 12 genres which is finite, and we will represent each genre as a binary vector. Each vector will have a length of 12 for the 12 possible values.
 
 ![Image of Genres One-Hot Encoding](/images/Genre_OHC.jpeg)
+
+We perform One-Hot Encoding for all four categorical features as exemplified above with the Genre feature and convert them into binary values so that we can apply them to different regression models.
 
 ## Comparisons of Different Regression Models
 
