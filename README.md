@@ -84,6 +84,9 @@ Based on the coefficients graph for linear, ridge, and lasso regression after cr
 
 Ridge regression was the best for this dataset out of linear regression, lasso regression, elastic net regression, and itself with an RMSE value of 1.267450 and a r^2 value of 0.354726. While this may be the optimal model for the regressions, it is still not a strong correlation by any means as the r^2 value, at best can only indicate a weak correlation between the factors that we had used as predictors and the scores that were given on Metacritic by fans and critics.
 
+## Contribution
+
+
 ## Citations
 
 Kirubi, Rush. “Video Game Sales with Ratings.” Kaggle, 30 Dec. 2016, https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings.
