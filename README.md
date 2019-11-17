@@ -1,6 +1,6 @@
 ## Introduction
 
-Our project focuses on video games and predicting the amount of success that they have. We used the factors of genre, year of release, platform, and publisher in order to predict how good a game would be. We defined how good a game is by the total global sales.
+Our project focuses on video games and predicting the amount of success that they have. We used the factors of genre, year of release, platform, publisher and rating scores/counts from critics/players in order to predict how good a game would be. We defined how good a game is as the sales all over the world.
 
 ## Importance
 
@@ -25,9 +25,25 @@ The features include metrics such as genre, year of release, platform, publisher
 
 We did not use this entire dataset but picked out effctive 6204 games for as train data set and 690 games as test data set.
 
-## Preprocessing
+## Data Preprocessing
 
-#### Data 
+#### Data Cleaning
+We deleted all data points with null or invalid values manually to avoid errors during data analysis.
+
+#### One-hot Encoding
+There are 4 CONTINUOUS VARIABLES in the dataset: Critic_Score, Critic_Count, User_Score, User_Count
+
+There are 4 CATEGORICAL VARIABLES in the dataset: Platform, Year_of_Release, Genre, Publisher
+
+We use one-hot encoding to convert categorical data ito integer data because the regression model we intend to use in our project requires numerical values.
+
+Using Genre as an example to perform one-hot encoding:
+
+![Image of Genre Distribution](/images/genres.png)
+
+We discover that there are 12 genres which is finite, and we will represent each genre as a binary vector. Each vector will a length of 12 for the 12 possible values.
+
+![Image of Genres One-Hot Encoding](/images/Genre_OHC.png)
 
 ## Comparisons of Different Regression Models
 
@@ -37,7 +53,7 @@ We did not use this entire dataset but picked out effctive 6204 games for as tra
 
 ![Image of result comparisons](/images/resultConparisons2.png)
 
-Ridge regression was the best for this dataset out of linear regression, lasso regression, elastic net regression, and itself with an RMSE value of 1.267450 and a r^2 value of 0.354726. While this may be the optimal model for the regressions, it is still not a strong correlation by any means as the r^2 value, at best can only indicate a weak correlation between the factors that we had used as predictors and the global sales of the games.
+Ridge regression was the best for this dataset out of linear regression, lasso regression, elastic net regression, and itself with an RMSE value of 1.267450 and a r^2 value of 0.354726. While this may be the optimal model for the regressions, it is still not a strong correlation by any means as the r^2 value, at best can only indicate a weak correlation between the factors that we had used as predictors and the scores that were given on Metacritic by fans and critics.
 
 ## Citations
 
