@@ -1,6 +1,6 @@
 ## Introduction
 
-Our project focuses on video games and predicting the amount of success that they have. We used the factors of genre, year of release, platform, publisher and rating scores/counts from critics/players in order to predict how good a game would be. We defined how good a game is as the sales all over the world.
+Our project focuses on video games and predicting the amount of success that they have. We used the factors of genre, year of release, platform, and publisher in order to predict how good a game would be. We defined how good a game is by the total global sales.
 
 ## Importance
 
@@ -35,7 +35,7 @@ We did not use this entire dataset but picked out effctive 6204 games for as tra
 
 ![Image of result comparisons](/images/resultConparisons2.png)
 
-Ridge regression was the best for this dataset out of linear regression, lasso regression, elastic net regression, and itself with an RMSE value of 1.267450 and a r^2 value of 0.354726. While this may be the optimal model for the regressions, it is still not a strong correlation by any means as the r^2 value, at best can only indicate a weak correlation between the factors that we had used as predictors and the scores that were given on Metacritic by fans and critics.
+Ridge regression was the best for this dataset out of linear regression, lasso regression, elastic net regression, and itself with an RMSE value of 1.267450 and a r^2 value of 0.354726. While this may be the optimal model for the regressions, it is still not a strong correlation by any means as the r^2 value, at best can only indicate a weak correlation between the factors that we had used as predictors and the global sales of the games.
 
 ## Citations
 
