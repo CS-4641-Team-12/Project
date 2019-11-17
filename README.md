@@ -43,7 +43,7 @@ Using Genre as an example to perform one-hot encoding:
 
 We discover that there are 12 genres which is finite, and we will represent each genre as a binary vector. Each vector will a length of 12 for the 12 possible values.
 
-![Image of Genres One-Hot Encoding](/images/Genre_OHC.png)
+![Image of Genres One-Hot Encoding](/images/Genre_OHC.jpeg)
 
 ## Comparisons of Different Regression Models
 
