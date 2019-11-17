@@ -70,6 +70,8 @@ We perform One-Hot Encoding for all four categorical features as exemplified abo
 
 ## Different Regression Models
 
+We will perform linear regression, ridge regression, lasso regression and elastic net regression and compare their R^2 score and RMSE to find the optimal model.
+
 #### Linear Regression
 ![Image of linear regression](/images/linearregression.png)
 #### Ridge Regression
@@ -104,8 +106,8 @@ Kirubi, Rush. “Video Game Sales with Ratings.” Kaggle, 30 Dec. 2016, https:/
 “U.S. Average Age of Video Gamers 2019.” Statista, https://www.statista.com/statistics/189582/age-of-us-video-game-players-since-2010/.
 
 ## Contributions
-* First Draft of Proposal - Kyu Han, Tim Qiu, Raffi Yang
+* First Draft of Proposal - Kyu Han, Ting Qiu, Raffi Yang
 * Editing Proposal - Raffi Yang, Cindy Zhang
-* Supervised Learning Engineer - Tim Qiu
-* Github Page Contributors - Kyu Han, Tim Qiu, Raffi Yang, Cindy Zhang
+* Supervised Learning Engineer - Ting Qiu
+* Github Page Contributors - Kyu Han, Ting Qiu, Raffi Yang, Cindy Zhang
 * Github Page Editor - Tim Qiu, Raffi Yang, Cindy Zhang
