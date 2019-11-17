@@ -99,6 +99,6 @@ Kirubi, Rush. “Video Game Sales with Ratings.” Kaggle, 30 Dec. 2016, https:/
 ## Contributions
 * First Draft of Proposal - Raffi Yang
 * Editing Proposal - Raffi Yang
-* Supervised Learning Engineer - Tian Qiu
-* Github Page Contributors - Kyu Han, Tian Qiu, Raffi Yang, Cindy Zhang
-* Github Page Editor - Tian Qiu, Raffi Yang, Cindy Zhag
+* Supervised Learning Engineer - Tim Qiu
+* Github Page Contributors - Kyu Han, Tim Qiu, Raffi Yang, Cindy Zhang
+* Github Page Editor - Tim Qiu, Raffi Yang, Cindy Zhag
