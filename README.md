@@ -95,3 +95,10 @@ Kirubi, Rush. “Video Game Sales with Ratings.” Kaggle, 30 Dec. 2016, https:/
 “The Video Games' Industry Is Bigger Than Hollywood.” LPE Esports, https://lpesports.com/e-sports-news/the-video-games-industry-is- bigger-than-hollywood.
 
 “U.S. Average Age of Video Gamers 2019.” Statista, https://www.statista.com/statistics/189582/age-of-us-video-game-players-since-2010/.
+
+## Contributions
+* First Draft of Proposal - Raffi Yang
+* Editing Proposal - Raffi Yang
+* Supervised Learning Engineer - Tian Qiu
+* Github Page Contributors - Kyu Han, Tian Qiu, Raffi Yang, Cindy Zhang
+* Github Page Editor - Tian Qiu, Raffi Yang, Cindy Zhag
