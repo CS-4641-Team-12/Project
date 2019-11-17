@@ -31,16 +31,16 @@ In this project, we will use supervised learning because we want to use features
 
 We will use mutiple regression as the approach to find out the pattern and predict the values of the rating on additional unlabeled data because there are eight independent variables: Platform, Year_of_Release, Genre, Publisher, Critic_Score, Critic_Count, User_Score, User_Count, and we want to determine the degree to which these independent variales are influencing the rating, the dependent variable.
 
-#### Steps:
-* Perform One-hot Encoding on dataset
-* Examine different regression models
-  * Linear regression
-  * Ridge regression
-  * Lasso regression
-  * Elastic net regression
-* Perform Cross Validation on each model
+We will examine different regression models such as linear regression, ridge regression, lasso regression, elastic net regression and perform cross validation on them to find out the best model for our dataset.
 
 Different than regression we did on our projects, we need to convert categorical variables into continuous variables before performing regressions because this is a real world dataset. This dataset contains categorical variables which can not be used in regression models because they require numerical values. We choose to use one-hot encoding to deal with this situation.
+
+## What is new?
+
+For the categorical variables, we apply one-hot encoding using pandas library to make them usable in our models.
+ 
+We also used different kinds of linear model such as ridge regression, lasso regression and elastic net regression to train and test our data set. Also we applied cross validation through scikit-learn library to get best alpha value for different models.
+
 
 ## Data Preprocessing
 
