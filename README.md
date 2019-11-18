@@ -1,3 +1,10 @@
+## CS 4641 Team 12
+
+Cindy Zhang
+Kyu Han
+Raffi Yang
+Ting Qiu
+
 ## Introduction
 
 Our project focuses on video games and predicting the amount of success that they have. We used the factors of genre, year of release, platform, publisher and rating scores/counts from critics/players in order to predict how good a game would be. We defined how good a game is as the total global sales.
