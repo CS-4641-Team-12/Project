@@ -1,8 +1,11 @@
 ## CS 4641 Team 12
 
 Cindy Zhang
+
 Kyu Han
+
 Raffi Yang
+
 Ting Qiu
 
 ## Introduction
