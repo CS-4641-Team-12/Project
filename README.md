@@ -1,13 +1,3 @@
-## CS 4641 Team 12
-
-Cindy Zhang
-
-Kyu Han
-
-Raffi Yang
-
-Ting Qiu
-
 ## Introduction
 
 Our project focuses on video games and predicting the amount of success that they have. We used the factors of genre, year of release, platform, publisher and rating scores/counts from critics/players in order to predict how good a game would be. We defined how good a game is as the total global sales.
@@ -96,7 +86,9 @@ We will perform linear regression, ridge regression, lasso regression and elasti
 ![Image of features with corresponding coefficients](/images/Features.png)
 
 ![Image of Linear Regression Coefficients](/images/LinearCoeff.png)
+
 ![Image of Ridge Regression Coefficients](/images/RidgeCoeff.png)
+
 ![Image of Lasso Regression Coefficients](/images/LassoCoeff.png)
 
 Based on the coefficients graphs for linear, ridge, and lasso regression after cross validation, we can see that the range of coefficient magnitude is smallest for ridge regression and highest for linear regression. This indicates that the ridge regression is the optimal regression model to predict the data we want. While performing lasso and ridge regression with cross validation, the best alpha value to choose were 0.6 and 10, respectively. Those alpha values were the third component of the alpha values we used. If we look at the table above, we can see that "genre" is the feature that the third coefficient is representing. Based on these results, we can say that in order to get the best prediction of global sales of a game, we can use the ridge regression model with the relationship between genre of the game and global sales of the game.
